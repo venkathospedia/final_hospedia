@@ -1,0 +1,157 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.MuiFormGroup-root-4 {
+  display: none !important;
+}
+
+.MuiToolbar-root-106,
+.MuiAppBar-colorPrimary-77 {
+  background: #f50057 !important;
+}
+
+.MuiTypography-body1-43 {
+  font-size: 1rem;
+  color: #212529;
+}
+
+.MuiTypography-colorInherit-63 {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.pageTitle {
+  text-align: center;
+  margin: 5px 0;
+  font-weight: 300;
+}
+
+.small {
+  width: 195px;
+}
+
+.normal {
+  width: 450px
+}
+
+.demo-non-form {
+  color: initial;
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0 12px 0;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  font-family: arial, verdana, sans-serif;
+  font-size: 14px;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+}
+
+.demo-container {
+  padding: 0 1em;
+}
+
+.external-container {
+  display: flex;
+}
+
+.external-container button.external-button {
+  font-weight: 400;
+  padding: 10px;
+  margin: 6px 0 12px 16px;
+}
+
+.MuiOutlinedInput-root-239.MuiOutlinedInput-focused-240 .MuiOutlinedInput-notchedOutline-246 {
+  border-color: #f50057 !important;   
+}
+
+
+.MuiFormLabel-root-232.MuiFormLabel-focused-233 {
+  color: #f50057 !important; 
+}
+
+.hidden {
+  display: none;
+}
+.cal1, .cal3, .cal6, .cost1, .cost3, .cost6 {
+  display: none !important;
+}
+.block {
+  display: block !important;
+}
+.mbsc-fr-w {
+  padding-top: 0px !important;
+}
+.mbsc-ios.mbsc-form {
+  background: none !important;
+}
+.mbsc-form-group label {
+  width:100% !important;
+}
+div label {
+  background: #fff !important;
+}
+.labelColor {  
+  color: #6c757d
+}
+select {
+  width: 83%;
+  padding: 15px;
+  border-color: #ccc;
+  border-radius: 4px;
+  color: #6c757d;
+}
+.btnAlignment {
+  float: right;
+  margin-right: 0px;
+}
+.clear {
+  clear: both
+}
+.mbsc-cal-txt,
+.mbsc-ltr .mbsc-cal-txt {
+  font-size: 1em;
+  text-align: center !important;
+}
+
+.legend-mark {
+  width: .40em;
+  height: .40em;
+  border-radius: 2em;
+  background: #f50057;
+  margin: 2px 10px 0 0;
+  float: left;
+}
+p{
+  color: #000;
+  line-height: 7px;
+}
+#procedureVal {
+  margin-bottom: 20px;
+}
+
+.MuiIconButton-root-25:hover {
+  background: none !important;
+}
