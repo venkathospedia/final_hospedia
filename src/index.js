@@ -15,6 +15,7 @@ import allReducers from './reducers/index'
 
 const sagaMiddleware = createSagaMiddleware();
 
+
 const store = createStore(
     allReducers, 
     applyMiddleware(sagaMiddleware)

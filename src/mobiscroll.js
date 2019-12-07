@@ -12547,5 +12547,5 @@
     return "android" == _ ? Sr = "material" : "ios" == _ ? Sr = "ios" : "wp" == _ && (Sr = "windows"), Te.each(Cr.frame, function(e, t) {
         if (Sr && t.baseTheme == Sr && "mobiscroll-dark" != e && "material-dark" != e && "windows-dark" != e && "ios-dark" != e) return n.autoTheme = e, !1;
         e == Sr && (n.autoTheme = e)
-    }), n.customTheme("ios-gray", "ios"), n.customTheme("material-indigo", "material"), n.customTheme("mobiscroll-lime", "mobiscroll"), n.customTheme("windows-yellow", "windows"), n.apiKey = "10392b7a", n.apiUrl = "https://trial.mobiscroll.com/", n
+    }), n.customTheme("ios-gray", "ios"), n.customTheme("material-indigo", "material"), n.customTheme("mobiscroll-lime", "mobiscroll"), n.customTheme("windows-yellow", "windows"), n.apiKey = "6aa0328e", n.apiUrl = "https://trial.mobiscroll.com/", n
 });
